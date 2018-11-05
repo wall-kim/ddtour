@@ -8,3 +8,5 @@ db.sqlite3
 .DS_Store
 .media
 .static
+sec_key_gen.py
+secrets.json
