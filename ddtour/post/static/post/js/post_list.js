@@ -4,6 +4,6 @@ window.mobilecheck = function() {
   return check;
 };
 
-if (window.mobilecheck) {
-    window.location.href='http://www.codingfactory.net/';
+if (window.mobilecheck == false) {
+    window.location.href='http://18.224.213.106/mobile';
 }
